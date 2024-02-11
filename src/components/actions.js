@@ -1,4 +1,4 @@
-import { INCREMENT, DECREASE } from "./actionTypes";
+import { INCREMENT, DECREASE } from "./actiontypes";
 
 export function incrementAction() {
     return {
